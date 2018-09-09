@@ -1,3 +1,14 @@
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+```
+
+
+
 # 最近的一个vue小项目需要node服务端做一个用户登录的校验以及权限拦截（用户认证与授权），目前常用的有两种----**JWT和Session**
 
 ### -1.传统的session+cookie 身份验证(Seesion)
