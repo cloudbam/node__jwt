@@ -30,8 +30,8 @@
 
 > [JWT 介绍：阮一峰](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
 
-> 点提示：[token](https://note.youdao.com/)/[seesion](https://note.youdao.com/)/[cookie](https://note.youdao.com/)/[localstorage](https://note.youdao.com/)
-
+> 点提示：[token](https://www.jianshu.com/p/310d307e44c6)/[seesion](https://www.jianshu.com/p/310d307e44c6)/[cookie](https://www.jianshu.com/p/310d307e44c6)/[localstorage](https://blog.csdn.net/qq_35585701/article/details/81393361)
+>[开发安全的 API 所需要核对的清单](https://github.com/shieldfy/API-Security-Checklist/blob/master/README-zh.md)
 示例简介：
 
 #### 登录认证接口认证：
